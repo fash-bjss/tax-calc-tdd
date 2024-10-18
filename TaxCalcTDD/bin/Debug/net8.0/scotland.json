@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "BottomBoundary": 145000,
+      "TaxRate": 0.02
+    },
+    {
+      "BottomBoundary": 250000,
+      "TaxRate": 0.05
+    },
+    {
+      "BottomBoundary": 325000,
+      "TaxRate": 0.1
+    },
+    {
+      "BottomBoundary": 750000,
+      "TaxRate": 0.12
+    }
+  ]
+}

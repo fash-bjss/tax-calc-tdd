@@ -1,5 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using TaxCalcTDD;
+InputReader reader = new InputReader();
+OutputWriter writer = new OutputWriter();
 
-using TaxCalcTDD;
-
-new TaxCalculator().Run();
+new TaxCalculator(reader, writer).Run();

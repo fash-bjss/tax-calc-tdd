@@ -12,3 +12,4 @@ C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\refin
 C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\TaxCalcTDD.pdb
 C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\TaxCalcTDD.genruntimeconfig.cache
 C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\ref\TaxCalcTDD.dll
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\TaxCalcTDD.sourcelink.json

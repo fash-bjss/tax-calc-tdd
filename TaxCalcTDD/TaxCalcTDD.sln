@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalcTDD", "TaxCalcTDD.csproj", "{AC1D5CB6-BB95-446A-A07E-C135596CEE08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxCalcTDD", "TaxCalcTDD.csproj", "{AC1D5CB6-BB95-446A-A07E-C135596CEE08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalcTDDTest", "..\TaxCalcTDDTest\TaxCalcTDDTest.csproj", "{B53D0AEA-91C1-4C65-A4C2-470B797396AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxCalcTDDTest", "..\TaxCalcTDDTest\TaxCalcTDDTest.csproj", "{B53D0AEA-91C1-4C65-A4C2-470B797396AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AFCEF8B6-AA02-40C1-AD53-E80FDBF1C3F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

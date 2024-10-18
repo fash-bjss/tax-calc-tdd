@@ -3,47 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B53D0AEA-91C1-4C65-A4C2-470B797396AE}|..\\TaxCalcTDDTest\\TaxCalcTDDTest.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctddtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\taxstrategies\\midband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:taxstrategies\\midband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\taxstrategies\\secondband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:taxstrategies\\secondband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\taxstrategies\\thirdband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:taxstrategies\\thirdband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\taxstrategies\\fourthband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:taxstrategies\\fourthband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\taxstrategies\\fithband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:taxstrategies\\fithband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\taxstrategies\\firstband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:taxstrategies\\firstband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\taxstrategies\\strategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:taxstrategies\\strategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\interfaces\\itaxstrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:interfaces\\itaxstrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\interfaces\\icountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:interfaces\\icountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\outputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,8 +19,39 @@
       "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\taxsystems\\taxsystemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:taxsystems\\taxsystemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\taxsystems\\taxsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:taxsystems\\taxsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\boundaries\\jsonboundarylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:boundaries\\jsonboundarylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\structs\\taxresultstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:structs\\taxresultstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\interfaces\\itaxsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:interfaces\\itaxsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\boundaries\\topboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:boundaries\\topboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\boundaries\\midboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:boundaries\\midboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctdd\\boundaries\\boundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D5CB6-BB95-446A-A07E-C135596CEE08}|TaxCalcTDD.csproj|solutionrelative:boundaries\\boundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53D0AEA-91C1-4C65-A4C2-470B797396AE}|..\\TaxCalcTDDTest\\TaxCalcTDDTest.csproj|c:\\users\\femi.ashiru\\documents\\c_\\tax-calc-tdd\\taxcalctddtest\\taxcalctest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDDTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\TaxCalcTDDTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDDTest\\UnitTest1.cs",
-              "RelativeToolTip": "..\\TaxCalcTDDTest\\UnitTest1.cs",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAowM4AAAA8AAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "TaxCalcTest.cs",
+              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDDTest\\TaxCalcTest.cs",
+              "RelativeDocumentMoniker": "..\\TaxCalcTDDTest\\TaxCalcTest.cs",
+              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDDTest\\TaxCalcTest.cs",
+              "RelativeToolTip": "..\\TaxCalcTDDTest\\TaxCalcTest.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAApwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T19:01:18.317Z",
               "IsPinned": true,
@@ -87,171 +83,159 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FithBand.cs",
-              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\FithBand.cs",
-              "RelativeDocumentMoniker": "TaxStrategies\\FithBand.cs",
-              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\FithBand.cs",
-              "RelativeToolTip": "TaxStrategies\\FithBand.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T21:42:51.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TaxCalculator.cs",
               "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxCalculator.cs",
               "RelativeDocumentMoniker": "TaxCalculator.cs",
               "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxCalculator.cs",
               "RelativeToolTip": "TaxCalculator.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAArwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T19:35:18.32Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FourthBand.cs",
-              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\FourthBand.cs",
-              "RelativeDocumentMoniker": "TaxStrategies\\FourthBand.cs",
-              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\FourthBand.cs",
-              "RelativeToolTip": "TaxStrategies\\FourthBand.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:07:59.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SecondBand.cs",
-              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\SecondBand.cs",
-              "RelativeDocumentMoniker": "TaxStrategies\\SecondBand.cs",
-              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\SecondBand.cs",
-              "RelativeToolTip": "TaxStrategies\\SecondBand.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:12:01.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FirstBand.cs",
-              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\FirstBand.cs",
-              "RelativeDocumentMoniker": "TaxStrategies\\FirstBand.cs",
-              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\FirstBand.cs",
-              "RelativeToolTip": "TaxStrategies\\FirstBand.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswBYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T23:09:52.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ThirdBand.cs",
-              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\ThirdBand.cs",
-              "RelativeDocumentMoniker": "TaxStrategies\\ThirdBand.cs",
-              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\ThirdBand.cs",
-              "RelativeToolTip": "TaxStrategies\\ThirdBand.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:10:18.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MidBand.cs",
-              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\MidBand.cs",
-              "RelativeDocumentMoniker": "TaxStrategies\\MidBand.cs",
-              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\MidBand.cs",
-              "RelativeToolTip": "TaxStrategies\\MidBand.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T01:46:16.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Strategies.cs",
-              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\Strategies.cs",
-              "RelativeDocumentMoniker": "TaxStrategies\\Strategies.cs",
-              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxStrategies\\Strategies.cs",
-              "RelativeToolTip": "TaxStrategies\\Strategies.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:19:56.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ITaxStrategies.cs",
-              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Interfaces\\ITaxStrategies.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ITaxStrategies.cs",
-              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Interfaces\\ITaxStrategies.cs",
-              "RelativeToolTip": "Interfaces\\ITaxStrategies.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T21:36:12.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "OutputWriter.cs",
               "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\OutputWriter.cs",
               "RelativeDocumentMoniker": "OutputWriter.cs",
               "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\OutputWriter.cs",
               "RelativeToolTip": "OutputWriter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T21:14:20.896Z",
+              "WhenOpened": "2024-10-18T22:13:21.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ICountries.cs",
-              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Interfaces\\ICountries.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ICountries.cs",
-              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Interfaces\\ICountries.cs",
-              "RelativeToolTip": "Interfaces\\ICountries.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T21:34:21.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "InputReader.cs",
               "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\InputReader.cs",
               "RelativeDocumentMoniker": "InputReader.cs",
               "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\InputReader.cs",
               "RelativeToolTip": "InputReader.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:50:10.386Z",
+              "WhenOpened": "2024-10-18T22:13:11.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
+              "Title": "TopBoundary.cs",
+              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Boundaries\\TopBoundary.cs",
+              "RelativeDocumentMoniker": "Boundaries\\TopBoundary.cs",
+              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Boundaries\\TopBoundary.cs",
+              "RelativeToolTip": "Boundaries\\TopBoundary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:06:37.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MidBoundary.cs",
+              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Boundaries\\MidBoundary.cs",
+              "RelativeDocumentMoniker": "Boundaries\\MidBoundary.cs",
+              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Boundaries\\MidBoundary.cs",
+              "RelativeToolTip": "Boundaries\\MidBoundary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:51:51.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonBoundaryList.cs",
+              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Boundaries\\JsonBoundaryList.cs",
+              "RelativeDocumentMoniker": "Boundaries\\JsonBoundaryList.cs",
+              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Boundaries\\JsonBoundaryList.cs",
+              "RelativeToolTip": "Boundaries\\JsonBoundaryList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:35:27.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Boundary.cs",
+              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Boundaries\\Boundary.cs",
+              "RelativeDocumentMoniker": "Boundaries\\Boundary.cs",
+              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Boundaries\\Boundary.cs",
+              "RelativeToolTip": "Boundaries\\Boundary.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA7wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:01:49.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaxSystem.cs",
+              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Interfaces\\ITaxSystem.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITaxSystem.cs",
+              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Interfaces\\ITaxSystem.cs",
+              "RelativeToolTip": "Interfaces\\ITaxSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:59:59.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T18:56:37.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaxResultStruct.cs",
+              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Structs\\TaxResultStruct.cs",
+              "RelativeDocumentMoniker": "Structs\\TaxResultStruct.cs",
+              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\Structs\\TaxResultStruct.cs",
+              "RelativeToolTip": "Structs\\TaxResultStruct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:37:03.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaxSystemFactory.cs",
+              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxSystems\\TaxSystemFactory.cs",
+              "RelativeDocumentMoniker": "TaxSystems\\TaxSystemFactory.cs",
+              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxSystems\\TaxSystemFactory.cs",
+              "RelativeToolTip": "TaxSystems\\TaxSystemFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:36:23.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaxSystem.cs",
+              "DocumentMoniker": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxSystems\\TaxSystem.cs",
+              "RelativeDocumentMoniker": "TaxSystems\\TaxSystem.cs",
+              "ToolTip": "C:\\Users\\femi.ashiru\\Documents\\C_\\tax-calc-tdd\\TaxCalcTDD\\TaxSystems\\TaxSystem.cs",
+              "RelativeToolTip": "TaxSystems\\TaxSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:57:57.441Z",
               "EditorCaption": ""
             }
           ]
