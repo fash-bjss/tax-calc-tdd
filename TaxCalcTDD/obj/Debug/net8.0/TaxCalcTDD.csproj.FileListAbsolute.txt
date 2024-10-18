@@ -1,0 +1,14 @@
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\bin\Debug\net8.0\TaxCalcTDD.exe
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\bin\Debug\net8.0\TaxCalcTDD.deps.json
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\bin\Debug\net8.0\TaxCalcTDD.runtimeconfig.json
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\bin\Debug\net8.0\TaxCalcTDD.dll
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\bin\Debug\net8.0\TaxCalcTDD.pdb
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\TaxCalcTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\TaxCalcTDD.AssemblyInfoInputs.cache
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\TaxCalcTDD.AssemblyInfo.cs
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\TaxCalcTDD.csproj.CoreCompileInputs.cache
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\TaxCalcTDD.dll
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\refint\TaxCalcTDD.dll
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\TaxCalcTDD.pdb
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\TaxCalcTDD.genruntimeconfig.cache
+C:\Users\femi.ashiru\Documents\C_\tax-calc-tdd\TaxCalcTDD\obj\Debug\net8.0\ref\TaxCalcTDD.dll
