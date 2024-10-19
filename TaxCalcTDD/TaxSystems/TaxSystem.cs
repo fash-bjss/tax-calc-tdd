@@ -5,10 +5,15 @@ namespace TaxCalcTDD.TaxStrategies
     public class TaxSystem : ITaxSystem
     {
         private double total;
-        private double effectiveRate;
-        private double purchasePrice;
-        private List<ITaxSystem> straegyList = new List<ITaxSystem>();
-        TaxSystemFactory taxSystemFactory = new TaxSystemFactory();
+        private double effectiveRate ;
+
+        private List<ITaxSystem> straegyList;
+        TaxSystemFactory taxSystemFactory;
+
+        public TaxSystem() {
+            straegyList = new List<ITaxSystem>();
+            taxSystemFactory = new TaxSystemFactory();
+        }
 
         public TaxResultStruct TaxResult
         {
@@ -17,33 +22,33 @@ namespace TaxCalcTDD.TaxStrategies
                 TaxResultStruct result = new TaxResultStruct(total, effectiveRate);
                 return result;
             }
-        }
 
+        }
 
         public void ChooseTaxSystem(string taxSystemName)
         {
             straegyList = taxSystemFactory.GenerateTaxSystem(taxSystemName);
         }
 
-        public double CalculateTax(string value)
+        public void Calculate(string value)
         {
-            double result = 0.0;
-            purchasePrice = Double.Parse(value);
-
-            foreach (ITaxSystem taxStrategy in straegyList)
+            foreach (ITaxSystem taxSystem in straegyList)
             {
-                result += taxStrategy.CalculateTax(value);
+                taxSystem.Calculate(value);
+
+                total += taxSystem.TaxResult.Total;
+                effectiveRate += taxSystem.TaxResult.EffectiveRate;
             }
-            total = Math.Floor(result);
-            CalculateEffectiveRate(total);
-            
-            // Below return value could definitely be removed in future implementations
-            return Math.Floor(result);
+            total = Math.Floor(total);
+            effectiveRate = Math.Round(effectiveRate, 2);
         }
 
-        public void CalculateEffectiveRate(double total) {
-            double result = (total / purchasePrice) * 100;
-            effectiveRate = Math.Round(result, 2);
+        public void Clear()
+        {
+            straegyList.Clear();
+            total = 0.0;
+            effectiveRate = 0.0;
         }
+
     }
 }

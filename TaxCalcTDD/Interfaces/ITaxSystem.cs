@@ -2,10 +2,7 @@
 {
     public interface ITaxSystem
     {
-        public double CalculateTax(string value);
-        public void CalculateEffectiveRate(double total);
-
-        public void ChooseTaxSystem(string taxSystemName);
+        public void Calculate(string price);
 
         TaxResultStruct TaxResult { get; }
     }

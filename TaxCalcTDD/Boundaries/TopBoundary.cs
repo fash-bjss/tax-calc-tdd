@@ -6,30 +6,42 @@ namespace TaxCalcTDD.Bands
     {
         double MinBoundary;
         double TaxRate;
+
+        private double purchasePrice;
+        private double total;
+        private double effectiveRate;
+
         public TopBoundary(double min, double taxRate)
         {
             MinBoundary = min;
             TaxRate = taxRate;
         }
 
-        public TaxResultStruct TaxResult => throw new NotImplementedException();
+        public TaxResultStruct TaxResult
+        {
+            get
+            {
+                TaxResultStruct result = new TaxResultStruct(total, effectiveRate);
+                return result;
+            }
+        }
+
+        public void Calculate(string price)
+        {
+            purchasePrice = double.Parse(price);
+
+            double convertedVal = double.Parse(price);
+            convertedVal = convertedVal < MinBoundary ? 0 : convertedVal - MinBoundary;
+            total = convertedVal * TaxRate;
+            CalculateEffectiveRate(total);
+        }
 
         public void CalculateEffectiveRate(double total)
         {
-            throw new NotImplementedException();
+            double result = (total / purchasePrice) * 100;
+            effectiveRate = result;
         }
 
-        public double CalculateTax(string value)
-        {
-            double convertedVal = double.Parse(value);
-            convertedVal = convertedVal < MinBoundary ? 0 : convertedVal - MinBoundary;
-            return convertedVal * TaxRate;
-        }
-
-        public void ChooseTaxSystem(string taxSystemName)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
 

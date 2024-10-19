@@ -12,25 +12,24 @@
 
                     return @"
                     [
-                        { ""BottomBoundary"": 145000, ""TaxRate"": 0.02 },
-                        { ""BottomBoundary"": 250000, ""TaxRate"": 0.05 },
-                        { ""BottomBoundary"": 325000, ""TaxRate"": 0.1 },
-                        { ""BottomBoundary"": 750000, ""TaxRate"": 0.12 }
+                        { ""Limit"": 750000, ""TaxRate"": 0.12 },
+                        { ""Limit"": 145000, ""TaxRate"": 0.02 },
+                        { ""Limit"": 250000, ""TaxRate"": 0.05 },
+                        { ""Limit"": 325000, ""TaxRate"": 0.1 }
                     ]";
 
                 case "wales":
 
                     return @"
                     [
-                        { ""BottomBoundary"": 225000, ""TaxRate"": 0.06 },
-                        { ""BottomBoundary"": 400000, ""TaxRate"": 0.075 },
-                        { ""BottomBoundary"": 750000, ""TaxRate"": 0.1 },
-                        { ""BottomBoundary"": 1500000, ""TaxRate"": 0.12 }
+                        { ""Limit"": 225000, ""TaxRate"": 0.06 },
+                        { ""Limit"": 400000, ""TaxRate"": 0.075 },
+                        { ""Limit"": 750000, ""TaxRate"": 0.1 },
+                        { ""Limit"": 1500000, ""TaxRate"": 0.12 }
                     ]";
-
+                default:
+                    return null;
             }
-
-            return "";
 
         }
     }
